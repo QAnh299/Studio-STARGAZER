@@ -1,4 +1,4 @@
-# 📸 Studio-STARGAZER — Hệ thống Quản lý Vận hành Studio Chụp Ảnh
+# 📸 Studio STARGAZER - Hệ thống Quản lý Vận hành Studio Chụp Ảnh
 
 ![Role](https://img.shields.io/badge/Vai%20trò-Business%20Analyst-blueviolet)
 ![Themes](https://img.shields.io/badge/Themes-5-orange)
@@ -7,7 +7,7 @@
 ![AC Pages](https://img.shields.io/badge/Acceptance%20Criteria-407%20trang-blue)
 ![Tools](https://img.shields.io/badge/Tools-Bizagi%20%7C%20Figma%20%7C%20Google%20Stitch-9cf)
 
-> Dự án phân tích nghiệp vụ & thiết kế yêu cầu cho hệ thống quản lý vận hành **Studio chụp ảnh StarGazer** — từ khảo sát hiện trạng đến bộ tài liệu đặc tả hoàn chỉnh sẵn sàng chuyển giao cho đội phát triển.
+> Dự án phân tích nghiệp vụ & thiết kế yêu cầu cho hệ thống quản lý vận hành **Studio chụp ảnh StarGazer** - từ khảo sát hiện trạng đến bộ tài liệu đặc tả hoàn chỉnh sẵn sàng chuyển giao cho đội phát triển.
 
 ---
 
@@ -17,7 +17,7 @@ Studio StarGazer là đơn vị cung cấp dịch vụ chụp ảnh theo yêu c�
 
 Dự án **Studio Operations Management System** được thực hiện nhằm phân tích, đặc tả và thiết kế một hệ thống website/app giúp số hóa toàn bộ quy trình vận hành: đặt lịch, quản lý khách hàng, quản lý kho trang phục và phối hợp giữa các bộ phận (Sales, Makeup, Nhiếp ảnh, Kho).
 
-**Vai trò của tôi:** Business Analyst — chịu trách nhiệm khảo sát nghiệp vụ, viết Project Scope Statement, xây dựng WBS, đặc tả User Stories & Acceptance Criteria, mô hình hoá quy trình nghiệp vụ (BPMN) và phối hợp thiết kế wireframe.
+**Vai trò của tôi:** Business Analyst - chịu trách nhiệm khảo sát nghiệp vụ, viết Project Scope Statement, xây dựng WBS, đặc tả User Stories & Acceptance Criteria, mô hình hoá quy trình nghiệp vụ (BPMN) và phối hợp thiết kế wireframe.
 
 ---
 
