@@ -7,8 +7,6 @@
 ![AC Pages](https://img.shields.io/badge/Acceptance%20Criteria-407%20trang-blue)
 ![Tools](https://img.shields.io/badge/Tools-Bizagi%20%7C%20Figma%20%7C%20Google%20Stitch-9cf)
 
-> Dự án phân tích nghiệp vụ & thiết kế yêu cầu cho hệ thống quản lý vận hành **Studio chụp ảnh StarGazer** - từ khảo sát hiện trạng đến bộ tài liệu đặc tả hoàn chỉnh sẵn sàng chuyển giao cho đội phát triển.
-
 ---
 
 ## 🧭 Giới thiệu dự án
@@ -82,8 +80,8 @@ flowchart LR
 ```
 
 - **Mô hình hoá quy trình nghiệp vụ:** BPMN dựng trên **Bizagi Modeler**, kèm bảng mô tả chi tiết Bước – Mô tả – Người thực hiện – Ghi chú cho từng luồng xử lý.
-- **Thiết kế giao diện:** Wireframe thực hiện trên **Figma** kết hợp **Google Stitch**, mô tả rõ từng thành phần giao diện (ID, loại component, ràng buộc validate, khả năng chỉnh sửa, bắt buộc/không bắt buộc).
-- **Đặc tả yêu cầu:** Mỗi User Story được tài liệu hoá thành Acceptance Criteria đầy đủ — tổng cộng bộ tài liệu AC dài **407 trang**, đảm bảo đội phát triển có đủ căn cứ để triển khai và kiểm thử.
+- **Thiết kế giao diện:** Wireframe thực hiện trên **Figma** kết hợp **Google Stitch**, mô tả rõ từng thành phần giao diện (loại component, ràng buộc validate, khả năng chỉnh sửa, bắt buộc/không bắt buộc).
+- **Đặc tả yêu cầu:** Mỗi User Story được tài liệu hoá thành Acceptance Criteria đầy đủ, đảm bảo đội phát triển có đủ căn cứ để triển khai và kiểm thử.
 
 ---
 
@@ -91,10 +89,10 @@ flowchart LR
 
 | Tài liệu | Nội dung |
 |---|---|
-| [`Project Scope Statement (PSS).pdf`](./Project%20Scope%20Statement%20(PSS).pdf) | Phạm vi dự án, mục tiêu kinh doanh, chỉ số KPI kỳ vọng theo từng giai đoạn |
+| [`Project Scope Statement (PSS).pdf`](./Project%20Scope%20Statement%20(PSS).pdf) | Phạm vi dự án, mục tiêu kinh doanh |
 | [`Work Breakdown Structure (WBS).xlsx`](./Work%20Breakdown%20Structure%20(WBS).xlsx) | Phân rã công việc theo chức năng của hệ thống |
 | [`User Stories (US).pdf`](./User%20Stories%20(US).pdf) | 50 User Story theo cấu trúc Theme – Epic |
-| [`Acceptance Criteria (AC).pdf`](./Acceptance%20Criteria%20(AC).pdf) | Đặc tả chi tiết tiêu chí chấp nhận, BPMN và wireframe cho từng User Story (407 trang) |
+| [`Acceptance Criteria (AC).pdf`](./Acceptance%20Criteria%20(AC).pdf) | Đặc tả chi tiết tiêu chí chấp nhận, BPMN và wireframe cho từng User Story |
 
 🔗 **Thiết kế wireframe (Figma):** [Xem tại đây](https://www.figma.com/design/0bH21FiMeBbusv4Vea8Hsp/NH%C3%93M04_GDQu%E1%BA%A3n-l%C3%AD-Studio?node-id=0-1&p=f&t=8xgcatpuyFoKZj6D-0)
 
@@ -104,7 +102,6 @@ flowchart LR
 
 - Bộ tài liệu đặc tả yêu cầu hoàn chỉnh, nhất quán từ Scope → WBS → User Story → BPMN → Wireframe → Acceptance Criteria, sẵn sàng chuyển giao cho đội phát triển.
 - Chuẩn hoá quy trình nghiệp vụ của 4 bộ phận (Sales, Makeup, Nhiếp ảnh, Kho) thành các luồng BPMN rõ ràng, làm cơ sở tự động hoá.
-- Bộ chỉ số KPI đo lường hiệu quả rõ ràng, làm căn cứ đánh giá thành công dự án sau khi triển khai giai đoạn 1.
 
 ---
 
