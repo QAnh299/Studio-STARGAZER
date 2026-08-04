@@ -1,1 +1,1 @@
-# Studio-STARGAZER---Studio-Operations-Management-System
+# Studio-STARGAZER - Studio-Operations-Management-System
